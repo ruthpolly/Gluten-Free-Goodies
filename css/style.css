@@ -9,7 +9,7 @@
 body {
     font-family: karla, sans-serif;
     font-weight: 300;
-    color: #3b3b3b;
+    color: #3a3a3a;
 }
 
 /*Logo and Headings*/
@@ -18,17 +18,36 @@ h1  {
     font-family: Dancing Script, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: #351411;
 } 
 
 h2 {
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: #4D1D19;
 }
 
 #gf-logo {
     float: left;
-    font-size: 280%;
+    font-size: 180%;
+    margin-top: 20px;
+}
+
+/*Navigation*/
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
 }
