@@ -99,27 +99,25 @@ Gluten-Free Goodies is a recipe site for anyone searching for easy baking recipe
 
 ### Colour Scheme
 
-![Gluten-Free Goodies Colour Palette](docs/colourpalette.png)
+![Gluten-Free Goodies Colour Palette]
 
-The website uses a palette of pastel colours that are often used in the hero image and to compliment the colours in other images. The colour palette was created using the [Coolors](https://coolors.co/) website.
+The website uses pastel colours that are used in the hero image and to compliment the colours in other images. The palette was designed by using the [Coolors](https://coolors.co/) website.
 
 ### Typography
 
-Google Fonts was used for the following fonts:
+Google Fonts was used for:
 
-* Merriweather is used for headings on the site. It is a serif font.
+* Montserrat is used for headings on the site. It is a serif font.
 
-* Raleway is used for the body text on the site. It is a sans-serif font.  
-
-* Indie Flower is used on the thank you page for Harrison Fords message. It is a cursive font.
+* Karla is used for the body text on the site. It is a sans-serif font.  
 
 ### Imagery
 
-The member images were used with the permission of their owners. All book covers were taken from the publishers websites. I have credited these in the [credits](#Credits) section.
+The images used were all taken from the [Unsplash](https://unsplash.com/) website.
 
 ### Wireframes
 
-Wireframes were created for mobile, tablet and desktop.
+The Wireframe was created on [Balsamiq] (https://balsamiq.com/).
 
 [Home Page Wireframe](docs/wireframes/indexwireframe.png)
 
@@ -129,13 +127,13 @@ Wireframes were created for mobile, tablet and desktop.
 
 ### Features
 
-The website is comprised of four pages, three of which are accessible from the navigation menu (home page, books page & contact us page). The fourth page is a thank you page which is shown once a user submits the form on the contact us page.
+The website has three pages, which are accessible from the navigation menu (home, recipes and sign up). 
 
 * All Pages on the website have:
 
-  * A responsive navigation bar at the top which allows the user to navigate through the site.  To the left of the navigation bar is an image of book clubs logo together with the text Bully Book Club. To the right of the navigation bar are the links to the websites pages (home, books, and contact us). To allow a good user experience of the site, the Bully Book Club text is hidden with a media query on mobile devices to prevent the navigation bar looking cluttered. When viewing with mobile devices the navigation links change to a burger toggler. This was implemented to give the site a clean look and to promote a good user experience, as users are used to seeing the burger icon when on mobile devices to navigate a site.
+  * A responsive navigation bar at the top which allows the user to navigate through the site. To the left of the navigation bar is the Gluten-Free Goodies logo which navigates to home. To the right of the navigation bar are the links to the websites pages (home, recipes and sign up). To allow a good user experience of the site, the links are moved to below the logo, allowing the navigation bar to remain uncluttered. 
 
-  * A footer which contains social media icon links to instagram and goodreads. There is also an envelope icon which takes the user to the contact us page. Icons were used to keep the footer clean and because they are universally recognisable.
+  * A footer which contains social media icon links to instagram, facebook, teitter and youtube. 
 
 * Home Page.
   * Carousel Section.
