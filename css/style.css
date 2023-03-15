@@ -1,11 +1,34 @@
- @import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Karla:wght@300&family=Montserrat:wght@300&display=swap');@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Montserrat:wght@300&display=swap');
 
 * {
     margin: 0;
     padding: 0;
+    border: none;
 }
 
 body {
     font-family: karla, sans-serif;
     font-weight: 300;
+    color: #3b3b3b;
+}
+
+/*Logo and Headings*/
+
+h1  {
+    font-family: Dancing Script, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+} 
+
+h2 {
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+}
+
+#gf-logo {
+    float: left;
+    font-size: 280%;
 }
