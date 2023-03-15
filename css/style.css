@@ -9,7 +9,7 @@
 body {
     font-family: karla, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #4d1d19;
 }
 
 /*Logo and Headings*/
@@ -18,7 +18,7 @@ h1  {
     font-family: Dancing Script, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #351411;
+    color: #4d1d19;
 } 
 
 h2 {
@@ -53,9 +53,40 @@ h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #4d1d19;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #4d1d19;
+}
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/baking-hero-image-3.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+
+    /*Activates zoom effect on image*/
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/*Zoom effect for hero image*/
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
