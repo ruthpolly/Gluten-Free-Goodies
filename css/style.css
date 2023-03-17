@@ -137,7 +137,9 @@ h2 {
 /*Information section*/
 
 #gf-info {
-    height: 600px;
+    height: 500px;
+    background-color: #DFD2CB;
+    padding-bottom: 30px;
 }
 
 #info-title {
@@ -181,7 +183,7 @@ p {
     width: 25%;
     height: 200px;
     float: left;
-    padding-top: 10px;
+    padding-top: 20px;
     text-align: center;
     border: 2px solid #E8DED9;
     box-sizing: border-box;
@@ -191,11 +193,24 @@ p {
     color: #E8DED9;
 }
 
-/*
-border-radius: 25px;
-border: 2px solid #73AD21;
-padding: 20px;
-width: 200px;
-height: 150px;
-position: relative;
-*/
+/*Footer section*/
+
+footer {
+    height: 100px;
+    background-color: #DFD2CB;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 160%;
+    margin: 1%;
+    padding-top: 15px;
+    color: #4D1D19;
+}
