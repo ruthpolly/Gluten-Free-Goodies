@@ -217,29 +217,20 @@ footer {
 
 /*Recipes page heading*/
 
-#ingredients {
-    background-color: #BFA49B;
-    height: 300px;
-}
-
-#cookie-header {
-    text-align: center;
-    background-color: #BFA49B;
-}
-
-#ingredients div {
+#ingredients-left {
+    padding-top: 30px;
+    width: 33%;
     float: left;
-    font-size: 130%;
-    width: 40%;
-    padding-top: 20px;
-
-    color: #E8DED9;
-    width: 50%;
-    height: 200px;
-    padding-top: 20px;
-    text-align: center;
 }
 
-#ingredients h3 {
-    font-size: 140%;
+#ingredients-right {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#ingredients-center {
+    padding-top: 30px;
+    width: 33%;
+    margin: 0 auto;
 }
