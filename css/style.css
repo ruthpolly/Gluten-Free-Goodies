@@ -14,6 +14,19 @@ body {
 
 /*Logo and Headings*/
 
+header {
+    background-color: #E8DED9;
+    padding: 10px;
+    padding-left: 30px;
+}
+
+#background-color {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
 h1  {
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
@@ -131,11 +144,42 @@ h2 {
     text-align: center;
     background-color: #BFA49B;
     line-height: 50px;
+    border-bottom: 2px solid #4D1D19;
+    border-top: 2px solid #4D1D19;
+    font-size: 180%;
 }
 
-#p-one, #p-two, #p-three {
+#info-heading {
+    text-decoration: underline 2px #4D1D19;
+}
+
+#section-one, #section-two, #section-three {
     text-align: center;
-    padding-top: 30px;
+    padding: 30px;
     font-size: 120%;
+    background-color: #DFD2CB;
 }
 
+p {
+    padding-top: 10px;
+}
+
+/*Brand & Stockists section*/
+
+#brands {
+    background-image: url(../images/Gluten-hero-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+/*
+border-radius: 25px;
+border: 2px solid #73AD21;
+padding: 20px;
+width: 200px;
+height: 150px;
+position: relative;
+*/
