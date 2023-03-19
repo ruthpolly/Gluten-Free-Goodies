@@ -2,9 +2,9 @@
 
 This Gluten-Free Goodies website is designed for a pleasant user experience that can be accessed on many different devices. Gluten-Free Goodies is to supply people with quick, easy gluten-free recipes.
 
-![Gluten Free Goodies shown on a range of devices](https://ruthpolly.github.io/project-portfolio-1/)
+![Gluten Free Goodies shown on a range of devices](https://ruthpolly.github.io/gluten-free-goodies/index.html)
 
-[View Gluten Free Cookies on Github Pages](https://ruthpolly.github.io/project-portfolio-1/)
+[View Gluten Free Cookies on Github Pages](https://ruthpolly.github.io/gluten-free-goodies)
 
 ![GitHub last commit]
 ![GitHub contributors]
