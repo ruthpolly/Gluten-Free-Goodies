@@ -2,9 +2,9 @@
 
 This Gluten-Free Goodies website is designed for a pleasant user experience that can be accessed on many different devices. Gluten-Free Goodies is to supply people with quick, easy gluten-free recipes.
 
-![Bully Book Club Website shown on a range of devices](https://ruthpolly.github.io/project-portfolio-1/)
+![Gluten Free Goodies shown on a range of devices](https://ruthpolly.github.io/project-portfolio-1/)
 
-[View Bully Book Club on Github Pages](https://ruthpolly.github.io/project-portfolio-1/)
+[View Gluten Free Cookies on Github Pages](https://ruthpolly.github.io/project-portfolio-1/)
 
 ![GitHub last commit]
 ![GitHub contributors]
@@ -136,46 +136,34 @@ The website has three pages, which are accessible from the navigation menu (home
   * A footer which contains social media icon links to instagram, facebook, teitter and youtube. 
 
 * Home Page.
-  * Carousel Section.
-  The carousel shows photographs of the members of Bully Book Club.
-  * About Us Section.
-  This section is broken down into four subsections and gives users some information on the book club. On large screens the subsections are laid out in a row, however on mobile devices the subsections are stacked vertically.
-  * Join Us Section.
-  This section gives the user more information on how they can join in with the book club.
+  * Hero Image.
+  The hero image contains cover text stating what the website will provide
+  * Information Section.
+  This section contains three paragraphs explaining what gluten is, what coeliac disease is and why someone would bake using gluten free ingredients.
+  * Brands Section.
+  This section provides information on some gluten free brands and where they can be found.
 
-* Books Page. The navigation link for books is a drop down menu with the following sections:
-  * Currently Reading.
-  This takes the user to the card of the book the book club is currently reading.
-  * Reading Next.
-  This takes the user to the card of the book the book club will be reading next.
-  * Yearly Sections.
-  This takes the user to the section of the year they have chosen. There are currently 3 years to select from.
-  The books page implements a return to top icon which allows users to return to the navigation menu easily from any point as they scroll down the page.
+* Recipes page. 
+  * Recipe.
+  The first section provides the ingredients required to make gluten free cookies.
+  * Directions.
+  This section has the steps required to bake the cookies.
 
-* Contact Us Page.
-  * A List of reasons users may want to contact the book club.
+* Sign Up Page.
   * Form
-  The form contains fields for the users name, email address, instagram handle, checkboxes giving a reason for contact and a text area for the user to add further information. The user submits the form using the submit button. Users must fill in the name, email and text area fields to be able to submit the form. If they don't a tooltip will guide them to fill in any information they have missed.
-
-* Thank You Page.
-  * A message thanks the user for submitting the form and lets them know someone will be in touch soon.
-  * Image and message from Harrison Ford, Dictator of the Bully Bookclub.
+  The form asks for a first name, last name and an email address to sign up tp monthly gluten free recipes.
 
 * Future Implementations.
-  * Use javascript to perform return to top function on books page.
-  * Use javascript and listeners to require at least one checkbox to be checked before submitting the form on contact us page.
-  * A meet the members page - This would have a photo of the member together with a small bio. A link to their instagram and/or goodreads page.
-  * Competitions/giveaways page - This page would give further information/rules on the competitions and giveaways the book club hosts.
+  
 
 ### Accessibility
 
-I have been mindful during coding to ensure that the website is as accessible friendly as possible. I have achieved this by:
+It is important to make websites as accessible as possible. This was achieved by:
 
 * Using semantic HTML.
 * Using descriptive alt attributes on images on the site.
-* Providing information for screen readers where there are icons used and no text - such as the review ratings for books & footer icons.
-* Ensuring that there is a sufficient colour contrast throughout the site.
-* Ensuring menus are accessible by marking the current page as current for screen readers.
+* Ensuring that there is a good colour contrast on the site.
+* Making menus accessible by ensuring the current page is marked current for screen readers.
 
 - - -
 
@@ -193,8 +181,6 @@ Git - For version control.
 
 Github - To save and store the files for the website.
 
-Bootstrap Version 4.6 - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
-
 Google Fonts - To import the fonts used on the website.
 
 Font Awesome - For the iconography on the website.
@@ -203,9 +189,9 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 [Tiny PNG](https://tinypng.com/) To compress images.
 
-[Birme](https://www.birme.net/) To resize images and change to webp format.
+[Wix](https://www.wix.com/tools/image-resizer) To resixe images
 
-[Favicon.io](https://favicon.io/) To create favicon.
+[Birme](https://www.birme.net/) To resize images and change to webp format.
 
 [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
@@ -220,7 +206,7 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 Github Pages was used to deploy the live website. The instructions to achieve this are below:
 
 1. Log in (or sign up) to Github.
-2. Find the repository for this project, Bully-Book-Club.
+2. Find the repository for this project, Project-portfolio-1.
 3. Click on the Settings link.
 4. Click on the Pages link in the left hand side navigation bar.
 5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
@@ -250,19 +236,19 @@ To clone the Bully-Book-Club repository:
 
 ## Testing
 
-Testing was ongoing throughout the entire build. I utilised Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
+Testing was repeated regularly during construction of the website. Chrome developer tools was used to identify and troubleshoot issues.
 
 The following issues were raised during my mid project meeting with my mentor:
 
-* The Join Us section on the home page was not in alignment with the rest of the page. Padding has now been added to bring it in alignment with the rest of the pages padding.
-* There was an issue on smaller devices where the book columns were not displaying properly. This issue is documented under issue 2 in solved bugs.
-* The introduction paragraph on the books page was not aligned in style with the rest of the page. The text has now been centered.
-* The form could be submitted with only a name filled in. ~ A required attribute has been added to the email input and textarea.
+* 
+* 
+* 
+* 
 
 The Following items were brought up when I submitted my site to peer code review on slack.
 
-* Andrew Dempsey suggested to change the layout of the about us section on the index page to make it two rows instead of one, as this would improve the flow of the page on larger screens. I have moved the second two items into a second row and have added a margin bottom in the css to give the items a bit more breathing space.
-* Andrew also suggested it would look better if the contact us page inputs had a bit of room each side and were centred on the page, as they were rather long on larger screens. I have adjusted the size of the input fields and centred these on the page for a better viewing experience.
+* 
+* 
 
 ### W3C Validator
 

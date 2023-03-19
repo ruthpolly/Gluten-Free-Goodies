@@ -8,7 +8,7 @@
 
 body {
     font-family: karla, sans-serif;
-    font-weight: 300;
+    font-weight: bold;
     color: #4d1d19;
 }
 
@@ -52,7 +52,7 @@ h2 {
 
 #menu {
     font-size: 130%;
-    font-weight: 110%;
+    font-weight: bold;
     letter-spacing: 4px;
 }
 
@@ -373,7 +373,6 @@ hr {
     border-width: 1px;
     border-radius: 15px;
     background-color: rgba(77, 29, 25, .9);
-    position: center;
     color: #E8DED9;
     margin: 0 auto;
 }
@@ -387,7 +386,6 @@ hr {
 
   
     right: 0;
-    margin: 20px;
     min-width: 300px;
     padding: 16px;
     background-color: #BFA49B;
@@ -403,15 +401,11 @@ hr {
     position: relative;
 }
 
-#sign-up-header {
-    
-}
-
 form {
     width: 400px;
     height: 400px;
     float: right;
-    font-weight: 130%;
+    font-weight: bold;
     font-size: 120%;
     color: #E8DED9;
     padding: 20px;
