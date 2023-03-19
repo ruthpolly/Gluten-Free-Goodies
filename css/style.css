@@ -219,22 +219,26 @@ footer {
 
 #ingredients {
     background-color: #E8DED9;
+    height: 420px;
 }
 
 #ingredients-left {
     padding-top: 30px;
+    padding-left: 200px;
     width: 33%;
     float: left;
 }
 
 #ingredients-right {
     padding-top: 30px;
+    padding-left: 200px;
     width: 33%;
     float: right;
 }
 
 #ingredients-center {
     padding-top: 30px;
+    padding-left: 200px;
     width: 33%;
     margin: 0 auto;
 }
@@ -252,7 +256,8 @@ hr {
     float: right;
     line-height: 40px;
     clear: both;
-    margin-bottom: 60px;
+    margin-bottom: 70px;
+    font-size: 115%;
 }
 
 .ingredients-right-heading {
@@ -260,14 +265,17 @@ hr {
     float: left;
     line-height: 40px;
     clear: both;
-    margin-bottom: 60px;
+    margin-bottom: 70px;
+    font-size: 115%;
 }
 
 #cookie-header {
     text-align: center;
-    margin: 20px o;
-    font-size: 150%;
-    background-color: #E8DED9;
+    font-size: 140%;
+    background-color: #BFA49B;
+    border-bottom: 2px solid #4D1D19;
+    border-top: 2px solid #4D1D19;
+    height: 80px;
 }
 
 /* Center image */
@@ -293,16 +301,30 @@ hr {
 /* Baking instructions */
 
 #directions {
-    height: 500px;
-    background-color: #E8DED9;
+    height: 700px;
+    background-color: #DFD2CB;
     padding-bottom: 30px;
 }
 
 #directions-header {
     text-align: center;
     background-color: #BFA49B;
-    line-height: 50px;
+    line-height: 40px;
     border-bottom: 2px solid #4D1D19;
     border-top: 2px solid #4D1D19;
     font-size: 180%;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
+
+#steps {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 120%;
+    background-color: #DFD2CB;
+}
+
+#steps p {
+    padding-bottom: 20px;
+}
+
