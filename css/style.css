@@ -234,3 +234,28 @@ footer {
     width: 33%;
     margin: 0 auto;
 }
+
+/*
+hr {
+    border-top: 1px solid #4D1D19;
+    width: 100%;
+    margin: 5px 0;
+}
+*/
+
+.ingredients-left-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 60px;
+}
+
+.ingredients-right-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 60px;
+}
+
