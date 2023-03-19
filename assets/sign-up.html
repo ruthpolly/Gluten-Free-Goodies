@@ -36,17 +36,19 @@
 <!--Sign up form-->
 
 <section id="form-outer">
-    <div id="form-image"></div>
+    <div id="form-image">
+    <h2 id="sign-up-header">Sign Up</h2>
+    <p>Please fill in this form to create an account.</p>
     <form action="_blank" method="post">
-        
         <label for="fname">First name:</label><br>
-        <input type="text" id="fname" name="fname"><br>
+        <input type="text" id="fname" name="fname" placeholder="Enter First Name Here" required><br>
         <label for="lname">Last name:</label><br>
-        <input type="text" id="lname" name="lname">
+        <input type="text" id="lname" name="lname" placeholder="Enter Last Name Here" required>
         <label for="email">Email:</label><br>
-        <input type="email" id="email" name="email">
+        <input type="email" id="email" name="email" placeholder="Enter Email Here" required>
         <input type="submit" name="email" id="email" value="Sign Up!">
     </form>
+    </div>
 </section>
 
 <!--Footer-->

@@ -2,15 +2,15 @@
 
 This Gluten-Free Goodies website is designed for a pleasant user experience that can be accessed on many different devices. Gluten-Free Goodies is to supply people with quick, easy gluten-free recipes.
 
-![Bully Book Club Website shown on a range of devices](assets/images/bullybookclubwebsite.png)
+![Bully Book Club Website shown on a range of devices](https://ruthpolly.github.io/project-portfolio-1/)
 
-[View Bully Book Club on Github Pages](https://kera-cudmore.github.io/Bully-Book-Club/)
+[View Bully Book Club on Github Pages](https://ruthpolly.github.io/project-portfolio-1/)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/bully-book-club?color=red)
-![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/bully-book-club?color=orange)
-![GitHub language count](https://img.shields.io/github/languages/count/kera-cudmore/bully-book-club?color=yellow)
-![GitHub top language](https://img.shields.io/github/languages/top/kera-cudmore/bully-book-club?color=green)
-![W3C Validation](https://img.shields.io/w3c-validation/html?color=blueviolet&targetUrl=https%3A%2F%2Fkera-cudmore.github.io%2FBully-Book-Club)
+![GitHub last commit]
+![GitHub contributors]
+![GitHub language count]
+![GitHub top language]
+![W3C Validation]
 
 ## CONTENTS
 

@@ -51,7 +51,8 @@ h2 {
 /*Navigation*/
 
 #menu {
-    font-size: 110%;
+    font-size: 130%;
+    font-weight: 110%;
     letter-spacing: 4px;
 }
 
@@ -71,7 +72,9 @@ h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #4d1d19;
+    border-bottom: 1px solid #E8DED9;
+    background-color: #4D1D19;
+    color: #E8DED9;
 }
 
 .active {
@@ -376,9 +379,67 @@ hr {
 }
 
 /*Sign up form*/
+
+#form-outer {
+    min-height: 400px;
+    overflow: hidden;
+    position: relative;
+
+  
+    right: 0;
+    margin: 20px;
+    min-width: 300px;
+    padding: 16px;
+    background-color: #BFA49B;
+}
+
+#form-image {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/baking-image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#sign-up-header {
+    
+}
+
+form {
+    width: 400px;
+    height: 400px;
+    float: right;
+    font-weight: 130%;
+    font-size: 120%;
+    color: #E8DED9;
+    padding: 20px;
+    border-style: solid;
+    border-color: #4D1D19;
+    border-width: 1px;
+    border-radius: 15px;
+    background-color: rgba(77, 29, 25, .9);
+    
+}
+
 input {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
+    background-color: #E8DED9;
+    border: 2px solid #4D1D19;
+    border-radius: 4px;
 }
+/*
+input[type=text] {
+    border: 2px solid #4D1D19;
+    border-radius: 4px;
+}
+
+input[type=email] {
+    border: 2px solid #4D1D19;
+    border-radius: 4px;
+}
+*/
