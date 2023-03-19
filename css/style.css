@@ -215,7 +215,11 @@ footer {
     color: #4D1D19;
 }
 
-/*Recipes page heading*/
+/*Recipes page */
+
+#ingredients {
+    background-color: #E8DED9;
+}
 
 #ingredients-left {
     padding-top: 30px;
@@ -244,18 +248,61 @@ hr {
 */
 
 .ingredients-left-heading {
-    width: 60%;
+    width: 70%;
     float: right;
-    line-height: 20px;
+    line-height: 40px;
     clear: both;
     margin-bottom: 60px;
 }
 
 .ingredients-right-heading {
-    width: 60%;
+    width: 70%;
     float: left;
-    line-height: 20px;
+    line-height: 40px;
     clear: both;
     margin-bottom: 60px;
 }
 
+#cookie-header {
+    text-align: center;
+    margin: 20px o;
+    font-size: 150%;
+    background-color: #E8DED9;
+}
+
+/* Center image */
+
+#image-container {
+    width: 250px;
+    height: 313px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #4D1D19;
+    border-width: 1px;
+    border-radius: 15px;
+    background-color: rgba(174, 128, 121, .7);
+}
+
+#image-cover-bg {
+    background-image: url(../images/cookies-center-image_250x313.jpeg);
+    height: 100%;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+}
+
+/* Baking instructions */
+
+#directions {
+    height: 500px;
+    background-color: #E8DED9;
+    padding-bottom: 30px;
+}
+
+#directions-header {
+    text-align: center;
+    background-color: #BFA49B;
+    line-height: 50px;
+    border-bottom: 2px solid #4D1D19;
+    border-top: 2px solid #4D1D19;
+    font-size: 180%;
+}
