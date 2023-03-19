@@ -229,7 +229,7 @@ p {
 
 footer {
     height: 100px;
-    background-color: #DFD2CB;
+    background-color: #E8DED9;
 }
 
 .social-media {
@@ -333,9 +333,10 @@ hr {
 /* Baking instructions */
 
 #directions {
-    height: 950px;
+    height: 1000px;
     background-color: #DFD2CB;
     padding-bottom: 30px;
+    border-bottom: 2px solid #4D1D19;
 }
 
 #directions-header {
@@ -372,4 +373,12 @@ hr {
     position: center;
     color: #E8DED9;
     margin: 0 auto;
+}
+
+/*Sign up form*/
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
 }
