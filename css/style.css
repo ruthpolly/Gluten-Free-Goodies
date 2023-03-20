@@ -497,17 +497,19 @@ input {
     }
 }
     
-@media screen and (max-width: 400px) {
+@media screen and (min-width: 320px) {
     header {
-        font-size: 80%;
+        font-size: 70%;
+        flex-direction: column;
+        width: 100%;
+        padding: 0;
+        margin: 0 auto;
     }
     
     #menu {
-        padding-top: 20px;
-        height: 80px;
-        text-align: left;
-        width: 100%;
-       font-size: 80%;
+        padding: 0;
+        margin: 0 auto;
+        line-height: 30px;
     }
 
     #hero-outer {
@@ -515,7 +517,7 @@ input {
     }
 
     #gluten-info {
-        height: 1600px;
+        height: 1700px;
     }
 
     #cookie-header {
@@ -523,7 +525,7 @@ input {
     }
 
     #directions {
-        height: 1550px;
+        height: 1600px;
     }
 
     form {
