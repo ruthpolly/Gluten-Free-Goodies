@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Karla:wght@300&family=Montserrat:wght@300&display=swap');@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Montserrat:wght@300&display=swap');@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Montserrat:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -198,7 +198,7 @@ h2 {
 }
 
 p {
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 /*Brand & Stockists section*/
@@ -492,10 +492,9 @@ input {
 
 @media screen and (max-width: 950px) {
     #menu {
-        float: left;
-        margin-left: 10px;
-        margin-bottom: 0px;
-        line-height: 20px;
+        padding: 0;
+        margin: 0 auto;
+        line-height: 60px;
     }
 
     #cover-text {
@@ -516,7 +515,7 @@ input {
     }
 }
     
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 600px) {
     header {
         font-size: 70%;
         flex-direction: column;
@@ -529,6 +528,7 @@ input {
         padding: 0;
         margin: 0 auto;
         line-height: 30px;
+        letter-spacing: 1px;
     }
 
     #hero-outer {
@@ -539,10 +539,19 @@ input {
         width: 60%;
         height: 120px;
         font-size: 70%;
+
+        margin: 0 auto; 
+        position: absolute;
     }
 
     #gluten-info {
         height: 1500px;
+        line-height: 20px;
+        background-color: #DFD2CB;
+    }
+
+    #gluten-info h2 {
+        font-size: 95%;
     }
 
     #brands > div {
@@ -553,11 +562,11 @@ input {
     }
 
     #cookie-header {
-        height: 150px;
+        height: 180px;
     }
 
     #directions {
-        height: 1600px;
+        height: 1650px;
     }
 
     form {
