@@ -138,7 +138,6 @@ h2 {
 
 /*Information section*/
 #gf-info {
-    height: 550px;
     background-color: #DFD2CB;
     padding-bottom: 50px;
 }
@@ -339,7 +338,6 @@ footer {
 
 /* Baking instructions */
 #directions {
-    height: 1000px;
     background-color: #DFD2CB;
     padding-bottom: 30px;
     border-bottom: 2px solid #4D1D19;
@@ -549,7 +547,6 @@ input {
 
     #directions {
         width: 100%;
-        height: 1100px;
     }
 }
 
@@ -572,10 +569,6 @@ input {
 
     #gluten-info {
         height: 1000px;
-    }
-
-    #directions {
-        height: 1300px;
     }
 
     #confirmation-text {
@@ -648,10 +641,6 @@ input {
 
     #cookie-header {
         height: 180px;
-    }
-
-    #directions {
-        height: 1650px;
     }
 
     form {
