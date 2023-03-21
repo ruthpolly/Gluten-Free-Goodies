@@ -458,6 +458,61 @@ input {
     /* color: #4D1D19; */
 }
 
+/* Confirmation page*/
+
+#confirmation-page {
+    background-color: #BFA49B;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#confirmation {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background-color: #E8DED9;
+}
+
+#confirmation-image {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/Confirmation-page-image.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+#confirmation-text {
+    font-size: 120%;
+    font-family: Montserrat, sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    background-color: rgba(174, 128, 121, .6);
+
+    bottom: 20px;
+    right: 45px;   
+    position: absolute;
+
+    border-radius: 15px;
+}
+
+#confirmation-text h3 {
+    padding-top: 40px;
+    letter-spacing: 2px;
+    line-height: 40px;
+}
+
+
+
 /* Media Queries*/
 
 /* For larger to medium screen sizes */
