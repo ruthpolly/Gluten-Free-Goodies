@@ -13,7 +13,6 @@ body {
 }
 
 /*Logo and Headings*/
-
 header {
     background-color: #E8DED9;
     padding: 10px;
@@ -49,7 +48,6 @@ h2 {
 }
 
 /*Navigation*/
-
 #menu {
     font-size: 130%;
     font-weight: bold;
@@ -110,7 +108,6 @@ h2 {
 }
 
 /*Zoom effect for hero image*/
-
 @keyframes hero-zoom {
     from {
         transform: scale(1);
@@ -121,7 +118,6 @@ h2 {
 }
 
 /*Cover text*/
-
 #cover-text {
     font-size: 120%;
     font-family: Montserrat, sans-serif;
@@ -141,7 +137,6 @@ h2 {
 }
 
 /*Information section*/
-
 #gf-info {
     height: 550px;
     background-color: #DFD2CB;
@@ -199,7 +194,6 @@ p {
 }
 
 /*Brand & Stockists section*/
-
 #brands #brands-title {
     text-align: center;
     background-color: #BFA49B;
@@ -250,7 +244,6 @@ p {
 }
 
 /*Footer section*/
-
 footer {
     height: 100px;
     background-color: #E8DED9;
@@ -272,7 +265,6 @@ footer {
 }
 
 /*Recipes page */
-
 #ingredients {
     background-color: #DFD2CB;
     height: 450px;
@@ -327,7 +319,6 @@ footer {
 }
 
 /* Center image */
-
 #image-container {
     width: 250px;
     height: 313px;
@@ -347,7 +338,6 @@ footer {
 }
 
 /* Baking instructions */
-
 #directions {
     height: 1000px;
     background-color: #DFD2CB;
@@ -391,7 +381,6 @@ footer {
 }
 
 /*Sign up form*/
-
 #form-outer {
     min-height: 400px;
     overflow: hidden;
@@ -459,7 +448,6 @@ input {
 }
 
 /* Confirmation page*/
-
 #confirmation-page {
     background-color: #BFA49B;
     height: 100vh;
@@ -520,7 +508,6 @@ input {
 /* Media Queries*/
 
 /* For larger to medium screen sizes */
-
 @media screen and (max-width: 1200px) {
     #gluten-info {
         width: 100%;
@@ -567,7 +554,6 @@ input {
 }
 
 /* For medium screen sizes from 950px wide and down*/
-
 @media screen and (max-width: 950px) {
     #menu {
         padding: 0;
@@ -613,6 +599,7 @@ input {
     }
 }
     
+/* for mobile devices up to 600px */
 @media screen and (max-width: 600px) {
     header {
         font-size: 70%;
