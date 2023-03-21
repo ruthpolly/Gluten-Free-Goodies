@@ -1,6 +1,6 @@
-# Gluten-Free Goodies
+# Gluten Free Goodies
 
-This Gluten-Free Goodies website is designed for a pleasant user experience that can be accessed on many different devices. Gluten-Free Goodies is to supply people with quick, easy gluten-free recipes.
+This Gluten Free Goodies website is designed for a pleasant user experience that can be accessed on many different devices. Gluten Free Goodies is to supply people with quick, easy gluten free recipes.
 
 ![Gluten Free Goodies shown on a range of devices](https://ruthpolly.github.io/gluten-free-goodies/index.html)
 
@@ -60,7 +60,7 @@ This Gluten-Free Goodies website is designed for a pleasant user experience that
 
 ### Initial Discussion
 
-Gluten-Free Goodies is a recipe site for anyone searching for easy baking recipes. Anyone diagnosed with coeliac disease, related to someone gluten-intolerant or someone just trying the diet will know that changing recipes to be gluten-free is a daunting task. This website is designed to make this process easier.
+Gluten Free Goodies is a recipe site for anyone searching for easy baking recipes. Anyone diagnosed with coeliac disease, related to someone gluten intolerant or someone just trying the diet will know that changing recipes to be gluten free is a daunting task. This website is designed to make this process easier.
 
 #### Key information for the site
 
@@ -76,11 +76,11 @@ Gluten-Free Goodies is a recipe site for anyone searching for easy baking recipe
 
 * To be able to view the site on a range of device sizes.
 * To provide visitors with easy recipes to try at home.
-* To educate about gluten, coeliac disease and gluten-intolerance.
+* To educate about gluten, coeliac disease and gluten intolerance.
 
 #### First Time Visitor Goals
 
-* To find out more about gluten/gluten-free recipes.
+* To find out more about gluten/gluten free recipes.
 * To easily access information and navigate the site.
 * To receive new recipes regularly
 
@@ -99,7 +99,7 @@ Gluten-Free Goodies is a recipe site for anyone searching for easy baking recipe
 
 ### Colour Scheme
 
-![Gluten-Free Goodies Colour Palette]
+![Gluten Free Goodies Colour Palette]
 
 The website uses pastel colours that are used in the hero image and to compliment the colours in other images. The palette was designed by using the [Coolors](https://coolors.co/) website.
 
@@ -121,17 +121,17 @@ The Wireframe was created on [Balsamiq] (https://balsamiq.com/).
 
 [Home Page Wireframe](docs/wireframes/indexwireframe.png)
 
-[Books Wireframe](docs/wireframes/bookswireframe.png)
+[Resipes Wireframe](docs/wireframes/bookswireframe.png)
 
-[Contact Us Wireframe](docs/wireframes/contactuswireframe.png)
+[Sign Up Wireframe](docs/wireframes/contactuswireframe.png)
 
 ### Features
 
 The website has three pages, which are accessible from the navigation menu (home, recipes and sign up). 
 
-* All Pages on the website have:
+* All pages on the website have:
 
-  * A responsive navigation bar at the top which allows the user to navigate through the site. To the left of the navigation bar is the Gluten-Free Goodies logo which navigates to home. To the right of the navigation bar are the links to the websites pages (home, recipes and sign up). To allow a good user experience of the site, the links are moved to below the logo, allowing the navigation bar to remain uncluttered. 
+  * A responsive navigation bar at the top which allows the user to navigate through the site. To the left of the navigation bar is the Gluten Free Goodies logo which navigates to home. To the right of the navigation bar are the links to the websites pages (home, recipes and sign up). To allow a good user experience of the site, the links are moved to below the logo, allowing the navigation bar to remain uncluttered. 
 
   * A footer which contains social media icon links to instagram, facebook, teitter and youtube. 
 
@@ -204,7 +204,7 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 Github Pages was used to deploy the live website. The instructions to achieve this are below:
 
 1. Log in (or sign up) to Github.
-2. Find the repository for this project, Gluten-Free-Goodies.
+2. Find the repository for this project, Gluten Free-Goodies.
 3. Click on the Settings link.
 4. Click on the Pages link in the left hand side navigation bar.
 5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
@@ -382,10 +382,10 @@ Links.
 4. Test each link on the thank you page. Each link worked as expected, and any links leading to external pages opened correctly in a seperate browser tab.
 5. Test each link on the 404 page. Each link worked as expected, and any links leading to external pages opened correctly in a seperate tab.
 
-Contact Us Form.
+Sign Up Form.
 
-1. Test the contact us form. I tried to submit the form without filling in any input fields. The form worked as expected and instructed users to fill in the first name field. Then filled in the first name field and tried to submit the form. Again the form worked and instructed the user to fill out the last name field. I filled out the first name and last name forms and tried to submit the form. The form worked correctly and asked the user to fill in the email field. I filled out the names and email field and tried to submit the form. The form then opens the thank you page in the same browser window.
-2. I tried to submit the form with only an email address - the form directs the user to fill in the name field. I filled out the name and email fields and tried to submit the form. The form then directs the user to fill out the textarea field. I filled in the name, email and textarea field and submitted the form. The form then opens the thank you page in the same browser window.
+1. Test the sign up form. I attempted to submit the form before filling in any input fields. The form worked as expected and instructed users to fill in the first name field. Then filled in the first name field and attempted to submit the form. Once again the form worked and instructed the user to fill out the last name field. When I filled out the first name and last name fields and clicked to submit the form, it worked correctly and instructed the user to fill in the email field. I completed the names and email field and tried to submit the form. The form then opened the confirmation page in the same browser window, before refreshing the browser after 10 seconds and returning to the home page.
+2. I attempted to submit the form with just the email address - the form instructs the user to fill in the name fields. I filled out the names and email fields and tried to submit the form. 
 3. I tried to submit the form with just the instagram username field filled in and the form directed me to fill in the name field. I filled in the name and instagram username fields and tried again to submit. The form asks the user to fill in the email field. I filled in the name, instagram username and email field and tried to submit. The form asks the user to fill in the textarea field. I filled out the name, instagram username, email and textarea fields and submitted the form. the form then opens the thank you page in the same browser window.
 4. I tried to submit the form with only the textarea field filled in. The form directs the user to fill in the name field. I filled in the name and textarea field and submitted the form. The form directs the user to fill in the email field. I filled in the name, email and textarea fields and submitted the form. The form then opens the thank you page in the same browser window.
 5. I selected one of the checkboxes and tried to submit the form. The form directs me to fill in the name field. I filled in the name field and the form directs the user to fill in the email field. I filled in the name and email fields and tried to submit the form. The form directs the user to fill in the textarea field. Once I filled in the name, email and textarea fields with a checkbox selected the form then opens the thank you page in the same browser window.
@@ -397,13 +397,13 @@ Contact Us Form.
 
 ### Code Used
 
-* [Abi Harrison's Meta Tags webinar and repository](https://github.com/Abibubble/meta-tags-example)
-* [Tutorial to change bullet images to emojis](https://daily-dev-tips.com/posts/css-emoji-list-style/)
+* 
+* 
 
 
 ### Content
 
-Content for the website was written Ruth O Sullivan, information surrounding gluten/coeliac disease taken from [Beyong Coeliac](https://www.beyondceliac.org/gluten-free-diet/what-is-gluten/)
+Content for the website was written Ruth O Sullivan, information surrounding gluten/coeliac disease taken from [Beyond Coeliac](https://www.beyondceliac.org/gluten-free-diet/what-is-gluten/)
 
 ### Media
 
