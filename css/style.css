@@ -494,8 +494,8 @@ input {
     letter-spacing: 4px;
 
     width: 300px;
-    height: 300px;
-    padding: 20px;
+    height: 400px;
+    padding: 10px;
     background-color: rgba(174, 128, 121, .6);
 
     bottom: 20px;
@@ -509,6 +509,10 @@ input {
     padding-top: 40px;
     letter-spacing: 2px;
     line-height: 40px;
+}
+
+#confirmatio p {
+    font-size: 80%;
 }
 
 
@@ -587,6 +591,26 @@ input {
     #directions {
         height: 1300px;
     }
+
+    #confirmation-text {
+        font-size: 100%;
+        font-weight: bolder;
+        text-align: center;
+        letter-spacing: 4px;
+    
+        width: 90%;
+        height: 100px;
+        padding: 0;
+
+        top: 20px;
+        position: absolute;
+    
+        border-radius: 15px;
+    }
+      
+    #confirmation-text h3 {
+        display: none;
+    }
 }
     
 @media screen and (max-width: 600px) {
@@ -657,5 +681,8 @@ input {
         height: 95%;
     }
 
-  
+    #confirmation-text {
+        height: 150px;
+        width: 80%;
+    }
 }
