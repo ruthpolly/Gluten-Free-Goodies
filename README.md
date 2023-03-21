@@ -254,9 +254,9 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 
 6. The nav bar and the foor lack definition. With such a pale color as a background, extra definition can be added by including a border, the same shade as the text in those areas.
 
-7. While it is intended for the recipe page to be more basic, it seemed a better user experience to have more information on the page, so adding video links at the bottom could improve that.
+7. 
 
-8. When looking back over the html code, there were unnecessary id's that needed to be removed. The same applied to the css file. To clean this up, it was useful to comment out code using shift + / and refresh the browser to see if the finished result was affected.
+8. 
 
 9. 
 

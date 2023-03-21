@@ -73,8 +73,10 @@ h2 {
 
 #menu a:hover {
     border-bottom: 1px solid #E8DED9;
-    background-color: #4D1D19;
-    color: #E8DED9;
+    background-color: #BFA49B;
+    color: #4D1D19;
+    border-radius: 15px;
+    font-size: 110%;
 }
 
 .active {
@@ -86,6 +88,7 @@ h2 {
     width: 100%;
     overflow: hidden;
     position: relative;
+    border-top: 2px solid #4D1D19;
 }
 
 #cover-text, #cover-text h2 {
@@ -154,12 +157,6 @@ h2 {
     font-size: 180%;
 }
 
-/*
-#info-heading {
-    text-decoration: underline 2px #4D1D19;
-}
-*/
-
 #section-one, #section-two, #section-three {
     text-align: center;
     padding: 30px;
@@ -203,6 +200,16 @@ p {
 
 /*Brand & Stockists section*/
 
+#brands #brands-title {
+    text-align: center;
+    background-color: #BFA49B;
+    line-height: 50px;
+    border-bottom: 2px solid #4D1D19;
+    border-top: 2px solid #4D1D19;
+    font-size: 180%;
+    color: #4D1D19;
+}
+
 #brands {
     background-image: url(../images/Gluten-hero-image.jpg);
     background-repeat: no-repeat;
@@ -210,6 +217,7 @@ p {
     background-position: center;
     width: 100%;
     overflow: hidden;
+    border-bottom: 2px solid #4D1D19;
 }
 
 #brands div {
@@ -226,6 +234,7 @@ p {
 
 #brands h2 {
     color: #E8DED9;
+    padding-top: 20px;
 }
 
 #brands a {
@@ -233,9 +242,9 @@ p {
 }
 
 #brands a:hover {
-    color: #E8DED9;
+    color: #4D1D19;
     border-bottom: 1px solid #BFA49B;
-    background-color: #4D1D19;
+    background-color: #BFA49B;
     border-radius: 15px;
     border-color: #4D1D19;
 }
@@ -289,14 +298,6 @@ footer {
     width: 33%;
     margin: 0 auto;
 }
-
-/*
-hr {
-    border-top: 1px solid #4D1D19;
-    width: 100%;
-    margin: 5px 0;
-}
-*/
 
 .ingredients-left-heading {
     width: 70%;
@@ -401,6 +402,8 @@ hr {
     min-width: 300px;
     padding: 16px;
     background-color: #BFA49B;
+    border-top: 2px solid #4D1D19;
+    border-bottom: 2px solid #4D1D19;
 }
 
 #form-image {
@@ -437,6 +440,22 @@ input {
     background-color: #E8DED9;
     border: 2px solid #4D1D19;
     border-radius: 4px;
+}
+
+.text-input:hover {
+    border-color: #BFA49B;
+}
+
+.sign-up-button {
+    background-color: #E8DED9;
+    color: #4D1D19;
+    font-size: 110%;
+    font-weight: bold;
+}
+
+.sign-up-button:hover {
+    background-color: #BFA49B;
+    /* color: #4D1D19; */
 }
 
 /* Media Queries*/
