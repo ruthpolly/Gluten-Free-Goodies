@@ -170,40 +170,6 @@ h2 {
     margin: 0 auto;
 }
 
-/* #section-one p {
-    width: 100%;
-    height: 100%;
-    padding: 10px;
-    border-style: solid;
-    border-color: #4D1D19;
-    border-width: 2px;
-    border-radius: 15px;
-}
-
-#section-two p {
-    width: 100%;
-    height: 100%;
-    padding: 10px;
-    border-style: solid;
-    border-color: #4D1D19;
-    border-width: 2px;
-    border-radius: 15px;
-}
-
-#section-three p {
-    width: 100%;
-    height: 100%;
-    padding: 10px;
-    border-style: solid;
-    border-color: #4D1D19;
-    border-width: 2px;
-    border-radius: 15px;
-}
-
-p {
-    padding-top: 5px;
-} */
-
 /*Brand & Stockists section*/
 #brands #brands-title {
     text-align: center;
@@ -277,24 +243,47 @@ footer {
 }
 
 /*Recipes page */
+#cookie-header {
+    text-align: center;
+    font-size: 140%;
+    background-color: #BFA49B;
+    border-bottom: 2px solid #4D1D19;
+    border-top: 2px solid #4D1D19;
+    height: 80px;
+}
+
 #ingredients {
     background-color: #DFD2CB;
+}
+
+.flex-container {
     display: flex;
+    flex-wrap: wrap;
+    flex-flow: row;
+    justify-content: center;
 }
 
-#ingredients-left {
-    width: 33%;
+.ingredients {
+    min-width: 100px;
+    margin-bottom: 70px;
+    font-size: 115%;
+    padding: 90px;
+    /* flex: 0 0 200px; */
 }
 
-#ingredients-right {
-    width: 33%;
+.left {
+    
 }
 
-#ingredients-center {
-    width: 33%;
+.right {
+
 }
 
-.ingredients-left-heading {
+.center {
+
+}
+
+/* .ingredients-left-heading {
     width: 70%;
     float: right;
     line-height: 40px;
@@ -310,16 +299,8 @@ footer {
     clear: both;
     margin-bottom: 70px;
     font-size: 115%;
-}
+} */
 
-#cookie-header {
-    text-align: center;
-    font-size: 140%;
-    background-color: #BFA49B;
-    border-bottom: 2px solid #4D1D19;
-    border-top: 2px solid #4D1D19;
-    height: 80px;
-}
 
 /* Center image */
 #image-container {
@@ -521,7 +502,13 @@ input {
         margin: 0;
     }
 
-    #ingredients {
+    .ingredients {
+        padding: 50px;
+    }
+
+
+
+    /* #ingredients {
         width: 100%;
         margin: 0 auto;
         padding: 30px 0;
@@ -533,11 +520,7 @@ input {
         display: flex;
         flex-direction: column;
         align-items: center;
-    }
-
-    #ingredients-center {
-        visibility: hidden;
-    }
+    } */
     
     #brands > div {
         width: 100%;
@@ -566,6 +549,12 @@ input {
     #hero-image {
         background-color: #DFD2CB;
     }
+
+/*     
+    .flex-container {
+        flex-flow: column;
+        margin: 0 auto;
+    } */
 
     #confirmation-text {
         font-size: 100%;
