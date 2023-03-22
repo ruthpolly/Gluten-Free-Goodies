@@ -279,6 +279,7 @@ footer {
 /*Recipes page */
 #ingredients {
     background-color: #DFD2CB;
+    display: flex;
 }
 
 #ingredients-left {
