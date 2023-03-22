@@ -283,24 +283,15 @@ footer {
 }
 
 #ingredients-left {
-    padding-top: 30px;
-    padding-left: 200px;
     width: 33%;
-    float: left;
 }
 
 #ingredients-right {
-    padding-top: 30px;
-    padding-left: 200px;
     width: 33%;
-    float: right;
 }
 
 #ingredients-center {
-    padding-top: 30px;
-    padding-left: 200px;
     width: 33%;
-    margin: 0 auto;
 }
 
 .ingredients-left-heading {
