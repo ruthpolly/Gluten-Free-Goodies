@@ -2,7 +2,7 @@
 
 This Gluten Free Goodies website is designed for a pleasant user experience that can be accessed on many different devices. Gluten Free Goodies is to supply people with quick, easy gluten free baking recipes.
 
-![Gluten Free Goodies shown on a range of devices](https://ruthpolly.github.io/gluten-free-goodies/index.html)
+![Gluten Free Goodies shown on a range of devices](../Gluten-Free-Goodies/documentation/am-i-responsive.PNG)
 
 [View Gluten Free Cookies on Github Pages](https://ruthpolly.github.io/gluten-free-goodies)
 
@@ -117,11 +117,11 @@ The images used were all taken from the [Unsplash](https://unsplash.com/) websit
 
 The Wireframe was created on [Balsamiq] (https://balsamiq.com/).
 
-[Home Page Wireframe]()
+[Home Page Wireframe](/Gluten-Free-Goodies/documentation/balsamiq-home-page.png)
 
-[Resipes Wireframe]()
+[Resipes Wireframe](/documentation/balsamiq-recipe-page.png)
 
-[Sign Up Wireframe]()
+[Sign Up Wireframe](/documentation/balsamiq-sign-up-page.png)
 
 ### Features
 
@@ -186,11 +186,15 @@ Font Awesome - For the iconography on the website.
 
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 
-[Wix](https://www.wix.com/tools/image-resizer) To resize images
+[Wix](https://www.wix.com/tools/image-resizer) To resize images.
 
 [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
-[Shields.io](https://shields.io/) To add badges to the README
+[Shields.io](https://shields.io/) To add badges to the README.
+
+[W3Schools](https://www.w3schools.com/) For additional CSS information.
+
+[The Net Ninja](https://www.youtube.com/c/TheNetNinja?app=desktop) For flexbox tutorials.
 
 - - -
 
@@ -260,7 +264,7 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 
 ### Known Bugs
 
-1. 
+
 
 ### Testing User Stories
 
@@ -268,25 +272,25 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
   * To learn more about gluten/coeliac disease and gluten free options.
   The information section provides a clear and concise explanation of the topics, and provides gluten friendly brands/stockists.
 
-  ![Home and information section of website]()
+  ![Home section of website](/documentation/home-section.PNG)
+  ![Information section](/documentation/information-section.PNG)
 
   * To be able to navigate the site easily to find information.
   Site navigation is in the top navigation bar, which consistantly appears on all pages of the site.
 
-  ![navigation menu for mobile devices]()
-  ![navigation menu for desktop]()
-  ![return to top]()
+  ![navigation menu for mobile devices](/documentation/nav-menu-mobile.PNG)
+  ![navigation menu for desktop](/documentation/nav-menu-desktop.PNG)
 
   * To be able to find this page on social media.  
     The instagram, youtube, facebook and twitter for Gluten Free Goodies is on each page in the footer. This opens a new browser window to each social media platform for a good user experience.
 
-    ![footer with social media icons]()
+    ![footer with social media icons](/documentation/footer.PNG)
 
 * Returning Visitors
   * To receive new recipes regularly.
   In the navigation menu there is a link to take the user directly to sign up to a monthly email containing a new gluten free baking recipe.
 
-  ![Sign up page]()
+  ![Sign up page](/documentation/sign-up-page.PNG)
 
 
 ### Lighthouse
@@ -296,8 +300,8 @@ I used Lighthouse within the Chrome Developer Tools to allow me to test the perf
 #### Index Page
 
 Initial lighthouse testing :
-[Lighthouse Testing for Desktop Index Page - Test 1]() ~
-[Lighthouse Testing for Mobile Index Page - Test 1]()
+[Lighthouse Testing for Desktop Home Page - Test 1](/documentation/lighthouse-desktop-home-test.PNG) ~
+[Lighthouse Testing for Mobile Home Page - Test 1](/documentation/lighthouse-mobile-home-test.PNG)
 
 Suggestions:
 
@@ -311,31 +315,29 @@ Final lighthouse testing:
 #### Recipe Page
 
 Initial lighthouse testing:
-[Lighthouse Testing for Desktop Recipe Page]() ~
-[Lighthouse Testing for Mobile Recipe Page]()
+[Lighthouse Testing for Desktop Recipe Page](/documentation/lighthouse-desktop-recipe-test.PNG) ~
+[Lighthouse Testing for Mobile Recipe Page](/documentation/lighthouse-mobile-recipe-test.PNG)
 
 Suggestions:
 
 1. Serve images in next-gen formats. Lighthouse suggests using image formats such as WebP & AVIF to improve compression and lead to faster downloads and less data consumption. 
 
-2. Properly sized images to improve load time.
-
 Final lighthouse testing:
 
-![Final Lighthouse Testing for Desktop Books Page]()
-![Final Lighthouse Testing for Mobile Books Page]()
+![Final Lighthouse Testing for Desktop Recipe Page]()
+![Final Lighthouse Testing for Mobile Recipe Page]()
 
 #### Sign Up Page
 
 Initial lighthouse testing:
-[Lighthouse Testing for Desktop Sign Up Page]() ~
-[Lighthouse Testing for Mobile Sign Up Page]()
+[Lighthouse Testing for Desktop Sign Up Page](/documentation/lighthouse-desktop-sign-up-test.PNG) ~
+[Lighthouse Testing for Mobile Sign Up Page](/documentation/lighthouse-mobile-sign-up-test.PNG)
 
 Suggestions:
 
 1. Serve images in next-gen formats. Lighthouse suggests using image formats such as WebP & AVIF to improve compression and lead to faster downloads and less data consumption. I have converted the logo to webp format using Birme.
 
-2. There is not a sufficient contrast on the small tag underneath the email input. I have targeted the text-muted class and changed the color of the text in order to improve the contrast.
+2. H3 element in the form is not semantic.
 
 Final lighthouse testing:
 
@@ -350,8 +352,8 @@ Initial lighthouse testing:
 
 Suggestions:
 
-1. Serve images in next-gen formats. Lighthouse suggests using image formats such as WebP & AVIF to improve compression and lead to faster downloads and less data consumption. I have converted the logo to webp format using Birme.
-  
+1. 
+S
 Final lighthouse testing:
 
 ![Final Lighthouse Testing for Desktop Confirmation Page]()
@@ -400,7 +402,7 @@ Content for the website was written Ruth O Sullivan, information surrounding glu
 
 I would like to acknowledge the following people who helped me along the way in completing my first milestone project:
 
-* 
+* The Code Institute Slack Community for constant support and guidance.
 * [Jubril Akolade](https://github.com/Jubrillionaire), my Code Institute Mentor.
 * 
 * 
