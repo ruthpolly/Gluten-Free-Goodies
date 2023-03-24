@@ -2,7 +2,7 @@
 
 This Gluten Free Goodies website is designed for a pleasant user experience that can be accessed on many different devices. Gluten Free Goodies is to supply people with quick, easy gluten free baking recipes.
 
-![Gluten Free Goodies shown on a range of devices](./documentation/am-i-responsive.PNG)
+![Gluten Free Goodies shown on a range of devices](/documentation/am-i-responsive.png)
 
 [View Gluten Free Goodies on Github Pages](https://ruthpolly.github.io/Gluten-Free-Goodies/index.html)
 
@@ -117,11 +117,11 @@ The images used were all taken from the [Unsplash](https://unsplash.com/) websit
 
 The Wireframe was created on [Balsamiq] (https://balsamiq.com/).
 
-[Home Page Wireframe](./documentation/balsamiq-home-page.png)
+[Home Page Wireframe](/documentation/balsamiq-home-page.png)
 
-[Recipes Wireframe](./documentation/balsamiq-recipe-page.png)
+[Recipes Wireframe](/documentation/balsamiq-recipe-page.png)
 
-[Sign Up Wireframe](./documentation/balsamiq-sign-up-page.png)
+[Sign Up Wireframe](/documentation/balsamiq-sign-up-page.png)
 
 ### Features
 
@@ -409,3 +409,5 @@ I would like to acknowledge the following people who helped me along the way in 
 * 
 * 
 * 
+
+[def]: doc
