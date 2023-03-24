@@ -272,25 +272,25 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
   * To learn more about gluten/coeliac disease and gluten free options.
   The information section provides a clear and concise explanation of the topics, and provides gluten friendly brands/stockists.
 
-  ![Home section of website](./documentation/home-section.PNG)
-  ![Information section](./documentation/information-section.PNG)
+  ![Home section of website](/documentation/home-section.png)
+  ![Information section](/documentation/information-section.png)
 
   * To be able to navigate the site easily to find information.
   Site navigation is in the top navigation bar, which consistantly appears on all pages of the site.
 
-  ![navigation menu for mobile devices](/documentation/nav-menu-mobile.PNG)
-  ![navigation menu for desktop](/documentation/nav-menu-desktop.PNG)
+  ![navigation menu for mobile devices](/documentation/nav-menu-mobile.png)
+  ![navigation menu for desktop](/documentation/nav-menu-desktop.png)
 
   * To be able to find this page on social media.  
     The instagram, youtube, facebook and twitter for Gluten Free Goodies is on each page in the footer. This opens a new browser window to each social media platform for a good user experience.
 
-    ![footer with social media icons](/documentation/footer.PNG)
+    ![footer with social media icons](/documentation/footer.png)
 
 * Returning Visitors
   * To receive new recipes regularly.
   In the navigation menu there is a link to take the user directly to sign up to a monthly email containing a new gluten free baking recipe.
 
-  ![Sign up page](/documentation/sign-up-page.PNG)
+  ![Sign up page](/documentation/sign-up-page.png)
 
 
 ### Lighthouse
@@ -300,8 +300,8 @@ I used Lighthouse within the Chrome Developer Tools to allow me to test the perf
 #### Index Page
 
 Initial lighthouse testing :
-[Lighthouse Testing for Desktop Home Page - Test 1](./documentation/lighthouse-desktop-home-test.PNG) ~
-[Lighthouse Testing for Mobile Home Page - Test 1](./documentation/lighthouse-mobile-home-test.PNG)
+[Lighthouse Testing for Desktop Home Page - Test 1](/documentation/lighthouse-desktop-home-test.png) ~
+[Lighthouse Testing for Mobile Home Page - Test 1](/documentation/lighthouse-mobile-home-test.png)
 
 Suggestions:
 
@@ -315,8 +315,8 @@ Final lighthouse testing:
 #### Recipe Page
 
 Initial lighthouse testing:
-[Lighthouse Testing for Desktop Recipe Page](./documentation/lighthouse-desktop-recipe-test.PNG) ~
-[Lighthouse Testing for Mobile Recipe Page](./documentation/lighthouse-mobile-recipe-test.PNG)
+[Lighthouse Testing for Desktop Recipe Page](/documentation/lighthouse-desktop-recipe-test.png) ~
+[Lighthouse Testing for Mobile Recipe Page](/documentation/lighthouse-mobile-recipe-test.png)
 
 Suggestions:
 
@@ -330,8 +330,8 @@ Final lighthouse testing:
 #### Sign Up Page
 
 Initial lighthouse testing:
-[Lighthouse Testing for Desktop Sign Up Page](./documentation/lighthouse-desktop-sign-up-test.PNG) ~
-[Lighthouse Testing for Mobile Sign Up Page](./documentation/lighthouse-mobile-sign-up-test.PNG)
+[Lighthouse Testing for Desktop Sign Up Page](/documentation/lighthouse-desktop-sign-up-test.png) ~
+[Lighthouse Testing for Mobile Sign Up Page](/documentation/lighthouse-mobile-sign-up-test.png)
 
 Suggestions:
 
