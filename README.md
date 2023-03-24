@@ -309,23 +309,20 @@ Suggestions:
 
 Final lighthouse testing:
 
-![Final Lighthouse Testing for Desktop Index Page]()
-![Final Lighthouse Testing for Mobile Index Page]()
+![Final Lighthouse Testing for Desktop Index Page](/documentation/lighthouse-desktop-home-test2.PNG)
+![Final Lighthouse Testing for Mobile Index Page](/documentation/lighthouse-mobile-home-test2.PNG)
+
+1. Result:  Image was converted to webp but did not increase score much, time constraints inhibited my chance to use [Tiny PNG](tiny.png.com) to compress it further. 
 
 #### Recipe Page
 
-Initial lighthouse testing :
+Lighthouse testing :
 [Lighthouse Testing for Desktop Recipe Page - Test 1](/documentation/lighthouse-desktop-recipe-test.png) ~
 [Lighthouse Testing for Mobile Recipe Page - Test 1](/documentation/lighthouse-mobile-recipe-test.png)
 
 Suggestions:
 
-1. Serve images in next-gen formats. Lighthouse suggests using image formats such as WebP & AVIF to improve compression and lead to faster downloads and less data consumption. 
-
-Final lighthouse testing:
-
-![Final Lighthouse Testing for Desktop Recipe Page]()
-![Final Lighthouse Testing for Mobile Recipe Page]()
+1. Serve images in next-gen formats. Lighthouse suggests using image formats such as WebP & AVIF to improve compression and lead to faster downloads and less data consumption. Image was converted to webp but did not increase score much, time constraints inhibited my chance to use [Tiny PNG](tiny.png.com) to compress it further. 
 
 #### Sign Up Page
 
@@ -341,23 +338,17 @@ Suggestions:
 
 Final lighthouse testing:
 
-![Final Lighthouse Testing for Desktop Sign Up Page ]()
-![Final Lighthouse Testing for Mobile Sign Up Page]()
+![Final Lighthouse Testing for Desktop Sign Up Page ](/documentation/lighthouse-desktop-sign-up-test2.PNG)
+![Final Lighthouse Testing for Mobile Sign Up Page](/documentation/lighthouse-mobile-sign-up-test2.PNG)
+
+1. Result: Image was converted to webp but did not increase score much, time constraints inhibited my chance to use [Tiny PNG](tiny.png.com) to compress it further. 
 
 #### Confirmation Page
 
-Initial lighthouse testing:
-[Lighthouse Testing for Desktop Confirmation Page]() ~
-[Lighthouse Testing for Mobile Confirmation Page]()
+Lighthouse testing:
+[Lighthouse Testing for Desktop Confirmation Page](/documentation/lighthouse-desktop-confirmation-test.PNG) ~
+[Lighthouse Testing for Mobile Confirmation Page](/documentation/lighthouse-mobile-confirmation-test.PNG)
 
-Suggestions:
-
-1. 
-S
-Final lighthouse testing:
-
-![Final Lighthouse Testing for Desktop Confirmation Page]()
-![Final Lighthouse Testing for Mobile Confirmation Page]()
 
 ### Full Testing
 
