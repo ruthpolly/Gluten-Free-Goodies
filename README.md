@@ -315,8 +315,8 @@ Final lighthouse testing:
 #### Recipe Page
 
 Initial lighthouse testing:
-[Lighthouse Testing for Desktop Recipe Page](/documentation/lighthouse-desktop-recipe-test.PNG) ~
-[Lighthouse Testing for Mobile Recipe Page](/documentation/lighthouse-mobile-recipe-test.PNG)
+[Lighthouse Testing for Desktop Recipe Page](./documentation/lighthouse-desktop-recipe-test.PNG) ~
+[Lighthouse Testing for Mobile Recipe Page](./documentation/lighthouse-mobile-recipe-test.PNG)
 
 Suggestions:
 
@@ -330,8 +330,8 @@ Final lighthouse testing:
 #### Sign Up Page
 
 Initial lighthouse testing:
-[Lighthouse Testing for Desktop Sign Up Page](/documentation/lighthouse-desktop-sign-up-test.PNG) ~
-[Lighthouse Testing for Mobile Sign Up Page](/documentation/lighthouse-mobile-sign-up-test.PNG)
+[Lighthouse Testing for Desktop Sign Up Page](./documentation/lighthouse-desktop-sign-up-test.PNG) ~
+[Lighthouse Testing for Mobile Sign Up Page](./documentation/lighthouse-mobile-sign-up-test.PNG)
 
 Suggestions:
 
