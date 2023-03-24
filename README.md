@@ -242,23 +242,15 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 
 3. The center cookie image on the recipes page pulled focus from the ingredients when on a smaller screen device. From a user perspective, most recipe sites have pages of text/images/advertisements to scroll through before reaching the recipe. I wanted this to be easy to find and read, without any distractions when using a smaller screen. The solution was to use flex box to move the image to below the ingredients.
 
-4. The cover text over the hero image was too large for the hero image when viewing from a smaller screen size. To utilise the space above the image, I moved the cover text on top of the main image to improve the user experience. I did this by centering the cover text using margin 0 auto.
+4. The cover text over the hero image was too large for the hero image when viewing from a smaller screen size. To utilise the space above the image, I moved the cover text on top of the main image to improve the user experience. I kept it towards the left of the screen as looked strange when centered.
 
 5. When hovering over the navigation links, the background color only highlights the text itself. For accessibility reasons it would be prefferable for a bigger area of the background colour. This was done by adding padding to the hover pseudo class for the navigation menu.
 
 6. The information section was not centered when screen size was reduced. This was solved by using the margin 0 auto value.
 
-7. 
-
-8. 
-
-9. 
-
-10. 
-
 ### Known Bugs
 
-
+1. The performance of some pages are not optimal due to image sizes. Having changed the image formats to webp this improved slightly on some pages. Ideally the images would be compressed further to inprove loading times.
 
 ### Testing User Stories
 
@@ -306,7 +298,7 @@ Final lighthouse testing:
 ![Final Lighthouse Testing for Desktop Index Page](/documentation/lighthouse-desktop-home-test2.PNG)
 ![Final Lighthouse Testing for Mobile Index Page](/documentation/lighthouse-mobile-home-test2.PNG)
 
-1. Result:  Image was converted to webp but did not increase score much, time constraints inhibited my chance to use [Tiny PNG](tiny.png.com) to compress it further. 
+1. Result:  Image was converted to webp but did not increase score completely, time constraints inhibited my chance to use [Tiny PNG](tiny.png.com) to compress it further. 
 
 #### Recipe Page
 
@@ -316,7 +308,7 @@ Lighthouse testing :
 
 Suggestions:
 
-1. Serve images in next-gen formats. Lighthouse suggests using image formats such as WebP & AVIF to improve compression and lead to faster downloads and less data consumption. Image was converted to webp but did not increase score much, time constraints inhibited my chance to use [Tiny PNG](tiny.png.com) to compress it further. 
+1. Serve images in next-gen formats. Lighthouse suggests using image formats such as WebP & AVIF to improve compression and lead to faster downloads and less data consumption. Image was converted to webp but did not increase score completely, time constraints inhibited my chance to use [Tiny PNG](tiny.png.com) to compress it further. 
 
 #### Sign Up Page
 
@@ -335,7 +327,7 @@ Final lighthouse testing:
 ![Final Lighthouse Testing for Desktop Sign Up Page ](/documentation/lighthouse-desktop-sign-up-test2.PNG)
 ![Final Lighthouse Testing for Mobile Sign Up Page](/documentation/lighthouse-mobile-sign-up-test2.PNG)
 
-1. Result: Image was converted to webp but did not increase score much, time constraints inhibited my chance to use [Tiny PNG](tiny.png.com) to compress it further. 
+1. Result: Image was converted to webp but did not increase score completely, time constraints inhibited my chance to use [Tiny PNG](tiny.png.com) to compress it further. 
 
 #### Confirmation Page
 
@@ -367,12 +359,6 @@ Sign Up Form.
 
 ## Credits
 
-### Code Used
-
-* 
-* 
-
-
 ### Content
 
 Content for the website was written Ruth O Sullivan, information surrounding gluten/coeliac disease taken from [Beyond Coeliac](https://www.beyondceliac.org/gluten-free-diet/what-is-gluten/)
@@ -388,11 +374,9 @@ Content for the website was written Ruth O Sullivan, information surrounding glu
 I would like to acknowledge the following people who helped me along the way in completing my first milestone project:
 
 * The Code Institute Slack Community for constant support and guidance.
-* [Jubril Akolade](https://github.com/Jubrillionaire), my Code Institute Mentor.
-* Everyone else in my cohort for their advice and support (Especially John Dickinson for all his tips).
-* 
-* 
-* 
-* 
+* [Jubril Akolade](https://github.com/Jubrillionaire), my Code Institute Mentor, for his advice, and endless patience.
+* Everyone in my cohort for their advice and support (Especially John Dickinson for all his tips).
+* My mother, for pointing out every possible flaw she noticed along the way...
+* Alan Bushell, our cohort facilitator for his guidance along the way.
 
 [def]: doc
