@@ -236,11 +236,11 @@ The Following items were brought up when I submitted my site to peer code review
 
 The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
 
-* [Index Page HTML]()
-* [Recipe Page HTML]()
-* [Sign Up Page HTML]()
-* [Confirmation Page HTML]()
-* [style.css CSS]()
+* [Index Page HTML](/documentation/W3C-index-validation.PNG)
+* [Recipe Page HTML](/documentation/W3C-recipes-validation.PNG)
+* [Sign Up Page HTML](/documentation/W3C-sign-up-validation.PNG)
+* [Confirmation Page HTML](/documentation/W3C-confirmation-validation.PNG)
+* [style.css CSS](/documentation/W3C-CSS-validation.PNG)
 
 ### Solved Bugs
 

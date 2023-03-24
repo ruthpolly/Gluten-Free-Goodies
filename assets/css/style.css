@@ -183,7 +183,7 @@ h2 {
 }
 
 #brands {
-    background-image: url(../images/Gluten-hero-image.webp);
+    background-image: url(../images/gluten-hero-image.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -287,7 +287,7 @@ footer {
 }
 
 #image-cover-bg {
-    background-image: url(../images/cookies-center-image_250x313.jpeg);
+    background-image: url(../images/cookies-center-image.jpeg);
     height: 100%;
     border-radius: 15px;
     background-repeat: no-repeat;
