@@ -405,14 +405,15 @@ input {
 /* Confirmation page*/
 #confirmation-page {
     background-color: #BFA49B;
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding-top: 50px;
+    min-height: 70vh;
 }
 
 #confirmation {
-    height: 600px;
+    height: 400px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -420,7 +421,7 @@ input {
 }
 
 #confirmation-image {
-    height: 600px;
+    height: 100%;
     width: 100%;
     background-image: url('../images/confirmation-image.webp');
     background-repeat: no-repeat;
