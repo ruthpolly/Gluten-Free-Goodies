@@ -6,12 +6,6 @@ This Gluten Free Goodies website is designed for a pleasant user experience that
 
 [View Gluten Free Goodies on Github Pages](https://ruthpolly.github.io/Gluten-Free-Goodies/index.html)
 
-![GitHub last commit]
-![GitHub contributors]
-![GitHub language count]
-![GitHub top language]
-![W3C Validation]
-
 ## CONTENTS
 
 * [User Experience (UX)](#User-Experience-(UX))
@@ -189,8 +183,6 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 [Wix](https://www.wix.com/tools/image-resizer) To resize images.
 
 [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
-
-[Shields.io](https://shields.io/) To add badges to the README.
 
 [W3Schools](https://www.w3schools.com/) For additional CSS information.
 
