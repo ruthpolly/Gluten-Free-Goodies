@@ -2,9 +2,9 @@
 
 This Gluten Free Goodies website is designed for a pleasant user experience that can be accessed on many different devices. Gluten Free Goodies is to supply people with quick, easy gluten free baking recipes.
 
-![Gluten Free Goodies shown on a range of devices](/Gluten-Free-Goodies/documentation/am-i-responsive.PNG)
+![Gluten Free Goodies shown on a range of devices](./documentation/am-i-responsive.PNG)
 
-[View Gluten Free Cookies on Github Pages](https://ruthpolly.github.io/gluten-free-goodies)
+[View Gluten Free Goodies on Github Pages](https://ruthpolly.github.io/Gluten-Free-Goodies/index.html)
 
 ![GitHub last commit]
 ![GitHub contributors]
@@ -117,11 +117,11 @@ The images used were all taken from the [Unsplash](https://unsplash.com/) websit
 
 The Wireframe was created on [Balsamiq] (https://balsamiq.com/).
 
-[Home Page Wireframe](/Gluten-Free-Goodies/documentation/balsamiq-home-page.png)
+[Home Page Wireframe](./documentation/balsamiq-home-page.png)
 
-[Resipes Wireframe](/documentation/balsamiq-recipe-page.png)
+[Recipes Wireframe](./documentation/balsamiq-recipe-page.png)
 
-[Sign Up Wireframe](/documentation/balsamiq-sign-up-page.png)
+[Sign Up Wireframe](./documentation/balsamiq-sign-up-page.png)
 
 ### Features
 
@@ -272,8 +272,8 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
   * To learn more about gluten/coeliac disease and gluten free options.
   The information section provides a clear and concise explanation of the topics, and provides gluten friendly brands/stockists.
 
-  ![Home section of website](/documentation/home-section.PNG)
-  ![Information section](/documentation/information-section.PNG)
+  ![Home section of website](./documentation/home-section.PNG)
+  ![Information section](./documentation/information-section.PNG)
 
   * To be able to navigate the site easily to find information.
   Site navigation is in the top navigation bar, which consistantly appears on all pages of the site.
