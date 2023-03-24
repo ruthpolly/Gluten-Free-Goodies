@@ -2,7 +2,7 @@
 
 This Gluten Free Goodies website is designed for a pleasant user experience that can be accessed on many different devices. Gluten Free Goodies is to supply people with quick, easy gluten free baking recipes.
 
-![Gluten Free Goodies shown on a range of devices](../Gluten-Free-Goodies/documentation/am-i-responsive.PNG)
+![Gluten Free Goodies shown on a range of devices](/Gluten-Free-Goodies/documentation/am-i-responsive.PNG)
 
 [View Gluten Free Cookies on Github Pages](https://ruthpolly.github.io/gluten-free-goodies)
 
@@ -300,8 +300,8 @@ I used Lighthouse within the Chrome Developer Tools to allow me to test the perf
 #### Index Page
 
 Initial lighthouse testing :
-[Lighthouse Testing for Desktop Home Page - Test 1](/documentation/lighthouse-desktop-home-test.PNG) ~
-[Lighthouse Testing for Mobile Home Page - Test 1](/documentation/lighthouse-mobile-home-test.PNG)
+[Lighthouse Testing for Desktop Home Page - Test 1](./documentation/lighthouse-desktop-home-test.PNG) ~
+[Lighthouse Testing for Mobile Home Page - Test 1](./documentation/lighthouse-mobile-home-test.PNG)
 
 Suggestions:
 
