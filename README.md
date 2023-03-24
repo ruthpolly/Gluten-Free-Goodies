@@ -227,8 +227,8 @@ The following issues were raised during my mid project meeting with my mentor:
 
 The Following items were brought up when I submitted my site to peer code review on slack.
 
-* 
-* 
+* The nav links get too close to the logo when the screen size is reduced to 950px, and then are off center and out of line with the logo when screen size is reduced futher.
+* There is a white space beneath the footer on the main page when on a mobile device.
 
 ### W3C Validator
 
