@@ -10,6 +10,7 @@ body {
     font-family: karla, sans-serif;
     font-weight: bold;
     color: #4d1d19;
+    min-height: 100vw;
 }
 
 /*Logo and Headings*/

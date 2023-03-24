@@ -314,9 +314,9 @@ Final lighthouse testing:
 
 #### Recipe Page
 
-Initial lighthouse testing:
-[Lighthouse Testing for Desktop Recipe Page](/documentation/lighthouse-desktop-recipe-test.png) ~
-[Lighthouse Testing for Mobile Recipe Page](/documentation/lighthouse-mobile-recipe-test.png)
+Initial lighthouse testing :
+[Lighthouse Testing for Desktop Recipe Page - Test 1](/documentation/lighthouse-desktop-recipe-test.png) ~
+[Lighthouse Testing for Mobile Recipe Page - Test 1](/documentation/lighthouse-mobile-recipe-test.png)
 
 Suggestions:
 
