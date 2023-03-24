@@ -545,7 +545,7 @@ input {
     }
     
     #menu {
-        padding: 0;
+        padding: 2px;
         margin: 0 auto;
         line-height: 30px;
         letter-spacing: 1px;
@@ -580,14 +580,19 @@ input {
         padding: 0;
     }
 
+    #form-outer {
+        padding-bottom: 50px;
+    }
+
+    #form-outer body {
+        min-height:100vw;
+        background-color: #E8DED9;
+    }
+
     form {
         height: 500px;
         width: 90%;
         padding-top: 20px;
-    }
-
-    #form-outer {
-        height: 550px;
     }
 
     #form-image {

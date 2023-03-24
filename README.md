@@ -397,7 +397,7 @@ I would like to acknowledge the following people who helped me along the way in 
 
 * The Code Institute Slack Community for constant support and guidance.
 * [Jubril Akolade](https://github.com/Jubrillionaire), my Code Institute Mentor.
-* 
+* Everyone else in my cohort for their advice and support (Especially John Dickinson for all his tips).
 * 
 * 
 * 
